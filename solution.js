@@ -36,8 +36,8 @@ console.log(monkeys / bananas);
 
 //7
 
-const monkeyFights = 20;
-console.log((monkeys+bananas)*monkeyFights);
+const monkeyfights = 20;
+console.log((monkeys+bananas)*monkeyfights);
 const resultTwo = 480;
 
 //8
@@ -56,7 +56,7 @@ console.log(boredom);
 
 console.log(bananas - monkeys);
 const happiness = -6;
-console.log(happiness+monkeyFights)
+console.log(happiness+monkeyfights)
 
 //11
 
