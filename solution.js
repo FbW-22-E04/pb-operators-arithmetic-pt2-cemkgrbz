@@ -1,29 +1,29 @@
 //0
 
-const snackServing = 50;
+const snackServings = 50;
 const guests = 30;
 
 //1
 
-console.log(snackServing + guests);
+console.log(snackServings + guests);
 
 //2
 
-console.log(guests - snackServing);
-console.log(snackServing - guests);
+console.log(guests - snackServings);
+console.log(snackServings - guests);
 
 //3
 
-console.log(snackServing * guests);
+console.log(snackServings * guests);
 
 //4
 
-console.log(snackServing / guests);
+console.log(snackServings / guests);
 
 //5
 
 const drinks = 10;
-console.log((snackServing * guests) / drinks);
+console.log((snackServings * guests) / drinks);
 
 const resultOne = 150;
 console.log(resultOne);
@@ -54,8 +54,8 @@ console.log(boredom);
 
 //10
 
-console.log(bananas - monkeys);
-const happiness = -6;
+console.log(monkeys - bananas);
+const happiness = 6;
 console.log(happiness+monkeyfights)
 
 //11
